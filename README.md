@@ -17,8 +17,7 @@ Pour executer en local le projet Open Transport, vous devez au préalable instal
 ```
 A définir
 
-``` salut c'est une Modification3 différente via interface web ligne 20 
-
+``` Modification différent via interface web
 ### Installation
 
 Voici les étapes à suivre pour avoir un environnement de développement et de test opérationnel :
