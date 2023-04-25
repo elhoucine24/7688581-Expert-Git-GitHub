@@ -17,7 +17,11 @@ Pour executer en local le projet Open Transport, vous devez au préalable instal
 ```
 A définir
 
+<<<<<<< HEAD
 ``` Modification  ligne 20 
+=======
+``` Modification différent via interface web
+>>>>>>> 44bb13a4501890a5cf1c5f0ecd08f3f8c1065c6f
 
 ### Installation
 
